@@ -1,0 +1,5 @@
+[benchmark]
+ec2-34-244-131-44.eu-west-1.compute.amazonaws.com ansible_ssh_private_key_file=/Users/palkan/.ssh/macos-dev
+
+[servers]
+ec2-34-254-163-132.eu-west-1.compute.amazonaws.com ansible_ssh_private_key_file=/Users/palkan/.ssh/macos-dev
